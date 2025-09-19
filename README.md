@@ -5,9 +5,8 @@ Front-end Engineer · Micro-Product Builder · SEO Pragmatist · AI Tooling Expl
 
 <p align="center">
   <a href="https://www.llm-token-calculator.com/">llm-token-calculator.com</a> ·
-  <a href="#projects">Projects</a> ·
+  <a href="https://leyla.top/">个人博客</a> ·
   <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#growth-notes">Growth Notes</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -72,11 +71,6 @@ Front-end Engineer · Micro-Product Builder · SEO Pragmatist · AI Tooling Expl
 ---
 
 ## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=leylatop&show_icons=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leylatop" height="160" />
-</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatop&layout=compact" height="160" />
