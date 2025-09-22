@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.llm-token-calculator.com/">🧮 llm-token-calculator.com</a> ·
   <a href="https://leyla.top/">📝 个人博客</a> ·
-  <a href="#tech-stack">⚡ Tech Stack</a> ·
+  <a href="#tech-stack">🛠️ Tech Stack</a> ·
   <a href="#contact">📬 Contact</a>
 </p>
 
@@ -16,7 +16,7 @@
 
 我在郑州做前端，偏工程化与产品化结合。目标很简单：用代码创造价值。
 
-- 🎯 目前现在在做：**LLM Token Calculator**（多模型分词与费用估算）
+- 🧮 目前现在在做：**LLM Token Calculator**（多模型分词与费用估算）
   👉 https://www.llm-token-calculator.com/
 - 🔍 正在探索：Hono + LangGraph.js 的 agent 服务、Vercel AI SDK 前后端一体化实践
 - ⚙️ 工程偏好：TypeScript 全量、设计 token、CI/CD、可观测、可维护
