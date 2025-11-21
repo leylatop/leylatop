@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://www.llm-token-calculator.com/">🧮 llm-token-calculator.com</a> ·
   <a href="https://leyla.top/">📝 个人博客</a> ·
+  <a href="http://101.37.171.40:3000/">📒 个人笔记</a> ·
   <a href="#tech-stack">🛠️ Tech Stack</a> ·
   <a href="#contact">📬 Contact</a>
 </p>
