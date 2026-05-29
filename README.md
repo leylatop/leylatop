@@ -31,30 +31,10 @@
 - **Design System**：🎯 Design Tokens · 🌈 色阶与暗色模式策略 · ♿ 可访问性优先  
 - **SEO/Growth**：📊 GSC · 🔍 分词与意图挖掘 · 🎯 SERP 工具位 · 📋 站内结构化数据
 
----
-
-## 🤝 Open to
-
-- 🤜🤛 合作：工具站共建、前端工程化改造、SEO 工具位探索  
-- 💬 咨询：从 0 到 1 的技术选型与 MVP 验证、前端性能与可维护性
-
----
 
 ## 📬 Contact
 
 - 🌐 Site: https://www.leyla.top/  
 - 🐙 GitHub: https://github.com/leylatop  
 - 📧 Email: <leyla_qiao@163.com>  
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylatop&layout=compact" height="160" />
-</p>
-
----
-
-<sub>☕ Made with first-principles and lots of coffee.</sub>
 
